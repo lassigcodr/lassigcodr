@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @lassigcodr
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on frontend web project
-- 📫 How to reach me [@lassigcodr](https://x.com/lassigcodr) on twitter
-- 💪 Skill set - HTML, SCSS, Javascript, Python, fastapi
+👋 Hi! I’m Wisdom Obasi, a web developer learning JavaScript and passionate about creating user-friendly applications. With experience in HTML, CSS, and backend tools like Fastapi, I’m eager to collaborate on innovative projects that make a real impact.
 
-<!---
-lassigcodr/lassigcodr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+#### 🛠 Tools 
+1. SCSS
+2. Javascript
+3. Python
+4. fastapi
+
+#### 📫 How to reach me
+Twitter:[@lassigcodr](https://x.com/lassigcodr)   
+
+LinkedIn: [Wisdom Obasi](https://www.linkedin.com/in/wisdom-obasi-304b94331/)
+
+My frontendmentor.io profile: [@lassigcodr](https://www.frontendmentor.io/profile/lassigcodr)
