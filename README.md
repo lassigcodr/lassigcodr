@@ -2,10 +2,10 @@
 
 
 #### 🛠 Tools 
-1. SCSS
-2. Javascript
-3. Python
-4. fastapi
+- SCSS
+- Javascript
+- Python
+- fastapi
 
 #### 📫 How to reach me
 Twitter:[@lassigcodr](https://x.com/lassigcodr)   
