@@ -6,9 +6,7 @@
 - Javascript
 - Python
 
-#### 📫 How to reach me
-Twitter:[@lassigcodr](https://x.com/lassigcodr)   
-
+#### 📫 How to reach me  
 LinkedIn: [Wisdom Obasi](https://www.linkedin.com/in/wisdom-obasi-304b94331/)
 
 My frontendmentor.io profile: [@lassigcodr](https://www.frontendmentor.io/profile/lassigcodr)
