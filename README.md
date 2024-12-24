@@ -5,6 +5,8 @@
 - SCSS
 - Javascript
 - Python
+- ReactJs
+- Tailwind css
 
 #### 📫 How to reach me  
 LinkedIn: [Wisdom Obasi](https://www.linkedin.com/in/wisdom-obasi-304b94331/)
